@@ -1,24 +1,26 @@
 {
-    "id": "266F7A69",
+    "id": "2EA8F05B",
     "path": "~/Desktop/20672031_SuyueWang_Assignment3/example.rmd",
     "project_path": "example.rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1354702484",
     "contents": "",
     "dirty": false,
-    "created": 1684734147726.0,
+    "created": 1684734236766.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "source_window_id": "",
-        "Source": "Source"
+        "Source": "Source",
+        "cursorPosition": "1,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1684734146,
+    "lastKnownWriteTime": 1684734242,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1684734146,
+    "last_content_update": 1684734242751,
     "read_only": false,
     "read_only_alternatives": []
 }
